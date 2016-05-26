@@ -1,6 +1,6 @@
 icns_rmcrc
 ==========
-http://www.icnslab.net/storage/paper/20150423_Huu-QuocNguyen_1435668760974.pdf
+
 Recently, mobile services have been increasing rapidly.
 Mobile devices and applications are built in different
 platforms (e.g. Android, IOS or Windows Phone, etc.) which
