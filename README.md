@@ -1,5 +1,6 @@
 icns_rmcrc
 ==========
+http://www.icnslab.net/storage/paper/20150423_Huu-QuocNguyen_1435668760974.pdf
 Recently, mobile services have been increasing rapidly.
 Mobile devices and applications are built in different
 platforms (e.g. Android, IOS or Windows Phone, etc.) which
@@ -14,5 +15,8 @@ consists of both user interface design and application
 deployment across multiple mobile platforms based on Apache
 Cordova platform. 
 ![alt tag](https://github.com/icqrx/maqetta/blob/master/fig1.png)
-![alt tag](https://github.com/icqrx/maqetta/blob/master/fig1.png)
-![alt tag](https://github.com/icqrx/maqetta/blob/master/fig1.png)
+![alt tag](https://github.com/icqrx/maqetta/blob/master/fig10_pms.PNG)
+![alt tag](https://github.com/icqrx/maqetta/blob/master/fig2.png)
+![alt tag](https://github.com/icqrx/maqetta/blob/master/fig3a.png)
+![alt tag](https://github.com/icqrx/maqetta/blob/master/fig3b.png)
+![alt tag](https://github.com/icqrx/maqetta/blob/master/fig6.png)
