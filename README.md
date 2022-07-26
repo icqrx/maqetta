@@ -20,3 +20,8 @@ Cordova platform.
 ![alt tag](https://github.com/icqrx/maqetta/blob/master/fig3a.png)
 ![alt tag](https://github.com/icqrx/maqetta/blob/master/fig3b.png)
 ![alt tag](https://github.com/icqrx/maqetta/blob/master/fig6.png)
+
+# Cite
+Please cite out paper 
+
+Huu-Quoc Nguyen, Tien-Dung Nguyen, Phuoc-Hung Pham, Xuan-Qui Pham, Aymen Abdullah Alsa ar and Eui-Nam Huh, An E cient Platform for MobileAp- plication Development on Cloud Environments, The third International Conference on Computer Applications and Infomation Processing Technology, Yangon, Myanmar, June, 2016.
